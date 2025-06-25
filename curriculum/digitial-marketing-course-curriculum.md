@@ -17,7 +17,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 1: Foundations of Digital Marketing**
 
-> _Duration: 1 Session_
+> _Duration: 2 Sessions_
 
 - What is Digital Marketing?
 - Traditional vs. Digital Marketing
@@ -29,7 +29,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 2: Website Planning & WordPress Basics**
 
-> _Duration: 2 Sessions_
+> _Duration: 4 Sessions_
 
 - Importance of Websites in Digital Marketing
 - Domain, Hosting & CMS Overview
@@ -42,7 +42,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 3: Search Engine Optimization (SEO)**
 
-> _Duration: 3 Sessions_
+> _Duration: 6 Sessions_
 
 - How Search Engines Work
 - Keyword Research using Google Keyword Planner, Ubersuggest
@@ -56,7 +56,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 4: Social Media Marketing (SMM)**
 
-> _Duration: 3 Sessions_
+> _Duration: 6 Sessions_
 
 - Social Media Platforms & Their Audiences
 - Creating Business Pages (Facebook, Instagram, LinkedIn)
@@ -69,7 +69,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 5: Google Ads (Search Engine Marketing - SEM)**
 
-> _Duration: 2 Sessions_
+> _Duration: 4 Sessions_
 
 - Google Ads Structure: Campaigns, Ad Groups, Keywords
 - Creating Search Ads, Display Ads
@@ -81,7 +81,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 6: Email Marketing**
 
-> _Duration: 1 Session_
+> _Duration: 2 Sessions_
 
 - Building an Email List (Lead Magnets, Landing Pages)
 - Writing Effective Emails (Subject, CTA, Design)
@@ -93,7 +93,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 7: Content Marketing & Strategy**
 
-> _Duration: 2 Sessions_
+> _Duration: 4 Sessions_
 
 - Importance of Content in Digital Marketing
 - Blogging, Video, Podcast, Infographics
@@ -105,7 +105,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 8: Affiliate & Influencer Marketing**
 
-> _Duration: 1 Session_
+> _Duration: 2 Sessions_
 
 - What is Affiliate Marketing?
 - Affiliate Networks (Amazon, ClickBank, etc.)
@@ -116,7 +116,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 9: Analytics & Performance Tracking**
 
-> _Duration: 2 Sessions_
+> _Duration: 4 Sessions_
 
 - Introduction to Google Analytics (GA4)
 - UTM Parameters & Campaign Tracking
@@ -128,7 +128,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 10: Online Reputation & Local SEO**
 
-> _Duration: 1 Session_
+> _Duration: 2 Sessions_
 
 - Importance of Reviews and Brand Image
 - Google My Business Setup & Optimization
@@ -139,7 +139,7 @@ By the end of this course, learners will be able to:
 
 ### **Module 11: Freelancing & Career Opportunities**
 
-> _Duration: 1 Session_
+> _Duration: 2 Sessions_
 
 - Building Your Digital Portfolio
 - Finding Freelance Projects (Upwork, Fiverr, LinkedIn)
@@ -150,7 +150,7 @@ By the end of this course, learners will be able to:
 
 ## 🛠️ **Capstone Project (Final Week)**
 
-> _Duration: 2 Sessions_
+> _Duration: 4 Sessions_
 
 - Develop a Full Digital Marketing Strategy for a Sample Business
 - Include SEO, SMM, Content Plan, Ads, and Analytics
