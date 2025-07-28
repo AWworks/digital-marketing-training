@@ -1,4 +1,4 @@
-# 🎯 **Digital Marketing Course Curriculum**
+# 🎯 **Digital Marketing Course Curriculum** 
 
  _An 8 weeks comprehensive and practical course outline_ for **In-Depth Hands-On Training on Digital Marketing**, with **1 hour per session, 5 sessions per week**. This curriculum is designed for aspiring digital marketers, freelancers, business owners, and students aiming to master practical skills.
 
